@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishsedhaii&label=Profile%20views&color=0e75b6&style=flat" alt="anishsedhaii" /> </p>
 
-- 🔭 I’m currently working with **major DevOps Tools**
+- 🔭 I’m currently working with **DevOps Tools**
 
 - 🌱 I’m currently learning **Azure DevOps**
 
