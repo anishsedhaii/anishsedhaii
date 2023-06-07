@@ -23,7 +23,13 @@
 
 ---
 
-<p align="center">
- <h3 align>GitHub Statistics</h3>
+<p>
+ <h3>GitHub Statistics</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=anishsedhaii&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" align="center" alt="Anish's github stats" />
+</p>
+
+---
+<p>
+<h3>Top Languages</h3> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishsedhaii&layout=compact&theme=vision-friendly-dark" align="center" alt="Anish's Top Languages" />
 </p>
