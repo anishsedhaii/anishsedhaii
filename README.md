@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish Sedhai</h1>
+<h1 align="center">Anish Sedhai</h1>
 <h3 align="center">A passionate DevOps/System Engineer from Nepal</h3>
 
 # 💫 About Me:
