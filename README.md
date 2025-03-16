@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps/System Engineer from Nepal</h3>
 
 # 💫 About Me:
-🔭 I’m currently working with DevOps Tools<br><br>🌱 I’m currently learning Azure DevOps<br><br>📝 I regularly write articles on https://medium.com/@aniecesedhai<br><br>📫 How to reach me aniecesedhai@gmail.com
+🔭 I’m currently working with DevOps Tools<br><br>📝 I regularly write articles on https://medium.com/@aniecesedhai<br><br>📫 How to reach me aniecesedhai@gmail.com
 
 
 ## 🌐 Socials:
